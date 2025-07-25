@@ -50,9 +50,11 @@ This project is an end-to-end business analysis of customer support operations u
 - “Technical” and “Refund” were the most common ticket types—consider automation or FAQs.
 - Align training focus on underperforming channels.
 
----
-
 ## 📸 Preview
+
+---<img width="1361" height="716" alt="Screenshot 2025-07-25 092416" src="https://github.com/user-attachments/assets/b77c13a8-6dcf-48f2-ba69-bda20e6bda0d" />
+
+
 > 
 ---
 
